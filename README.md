@@ -26,4 +26,4 @@ KNOW(한국직업정보)는 다양한 직업에 종사하고 있는 재직자에
 
 - 상위 2%
 
-![video Label](http://img.youtube.com/vi/EJkOe9CKkVA&t/0.jpg)](https://youtu.be/EJkOe9CKkVA&t)
+![video Label](http://img.youtube.com/vi/EJkOe9CKkVA/0.jpg)](https://youtu.be/EJkOe9CKkVA)
